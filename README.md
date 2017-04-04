@@ -14,6 +14,11 @@ The [second script](https://github.com/msraynsford/OpenSCADBoxes/blob/master/Fle
 
 ![](https://github.com/msraynsford/OpenSCADBoxes/blob/master/images/IMG_5071%20(Custom).JPG)
 
+![](https://github.com/msraynsford/OpenSCADBoxes/blob/master/images/Screenshot%202017-04-03%2011.31.34.png)
+
+
 The [third script](https://github.com/msraynsford/OpenSCADBoxes/blob/master/FlexBox2.scad) creates a more standard flex box with 3 panels and an oversized lid. The final wall is split in the middle and all the tabs lock into the lid which prevent it from springing open when it's not glued down.
 
 ![](https://github.com/msraynsford/OpenSCADBoxes/blob/master/images/IMG_5342%20(Custom).JPG)
+
+![](https://github.com/msraynsford/OpenSCADBoxes/blob/master/images/Screenshot%202017-04-03%2013.49.57.png)
